@@ -1,3 +1,4 @@
+// Displays contact information
 function Contact() {
     return (
         <>

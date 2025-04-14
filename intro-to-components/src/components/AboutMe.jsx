@@ -1,3 +1,4 @@
+// Displays a short bio
 function AboutMe() {
     return (
         <div>

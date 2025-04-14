@@ -1,3 +1,4 @@
+// Displays project names and their descriptions
 function Projects() {
     return (
         <>
